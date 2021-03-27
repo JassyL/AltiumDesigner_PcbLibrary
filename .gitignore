@@ -2,3 +2,5 @@ History/
 *.PrjPcbStructure
 template/__Previews/
 *.lnk
+Integrated_Library/
+!Integrated_Library.IntLib
